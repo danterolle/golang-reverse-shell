@@ -1,2 +1,3 @@
-# golang-reverse-shell
-An example of a reverse shell written in Go
+# Reverse shell written in Golang
+
+An example of a reverse shell written in Go.
